@@ -1,7 +1,5 @@
 # FloodHelp
 
-## Introdução
-
 O projeto **FloodHelp** nasce com a missão de auxiliar as vítimas da catástrofe climática que devastou o estado do Rio Grande do Sul, caracterizada por enchentes em todo o território. Esta tragédia afetou cerca de 2,3 milhões de pessoas nas regiões Central, dos Vales, Serra e Metropolitana de Porto Alegre, resultando em mais de 442 mil pessoas desabrigadas ou desalojadas, das quais aproximadamente 18 mil estão em abrigos e 423 mil desalojadas.
 
 <br>
